@@ -3,6 +3,8 @@ Data Structures Capstone Project - Brian Borowski
 12/12/2023
 
 
+Anagram Finder to find all anagrams of a provided word present in a text file
+
 I expect the HashMap implementation to be the fastest performing data structure for the task. This is because, when inputting the data into the different data structures we have to constantly check if the anagram is already present in the table, and the hashmap provides near constant time lookups for getting the data values.
 
 
